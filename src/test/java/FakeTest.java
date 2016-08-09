@@ -11,7 +11,7 @@ public class FakeTest {
 
     @Test
     public void shouldFail(){
-        fail("Oops. Test failed");
+//        fail("Oops. Test failed");
     }
 
 }
