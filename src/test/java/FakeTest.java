@@ -2,6 +2,7 @@ import org.junit.Test;
 
 import static junit.framework.TestCase.fail;
 
+
 public class FakeTest {
 
     @Test
@@ -11,7 +12,7 @@ public class FakeTest {
 
     @Test
     public void shouldFail(){
-//        fail("Oops. Test failed");
+        fail("Oops. Test failed");
     }
 
 }
